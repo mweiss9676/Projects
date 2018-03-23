@@ -29,3 +29,10 @@
      * A C# console application which interfaces with Microsoft SQL Server to schedule and verify campsite reservations across three major park systems. Completed the bonus requirements for park-wide searching and implemented a GUI for usability.
      
      [Take me there!](https://mweiss9676.github.io/Park-Reservation-System/)
+     
+* ## [Vending Machine](https://mweiss9676.github.io/CircusOfValue/)
+
+     What is it?
+     * Built in C# and the .NET framework. Went above the scope of the assignment to increase usability and customer experience by adding increased functionality and a full-featured GUI in a console application including scrolling animations and the ability to remove items from the shopping cart on the fly. 
+
+     [Take me there!](https://mweiss9676.github.io/CircusOfValue/)
