@@ -1,6 +1,6 @@
 # Some of the projects I'm currently working on 
 
-* ## Advent of Code 
+* ## [Advent of Code](https://mweiss9676.github.io/AdventCalendarCSharp/) 
      
      What is it?
      * A series of coding challenges with a progressive difficulty scale for every day in the month of December
@@ -8,14 +8,14 @@
      
      [Take me there!](https://mweiss9676.github.io/AdventCalendarCSharp/)
      
-* ## National Parks Weather Service
+* ## [National Parks Weather Service](http://nationalparkweatherservice.apphb.com/)
 
      What is it?
      * A .NET Framework application utilizing MVC to display local weather and information for our national parks. Went beyond the scope of the assignment by implementing Json data to streamline the data exchange, and implemented real weather data using a weather API in place of the built in SQL data. 
      
      [Take me there!](http://nationalparkweatherservice.apphb.com/) (note: may take 20 seconds or so to spin up the servers if it hasn't been accessed in awhile)
      
-* ## The Form Group 
+* ## [The Form Group](https://mweiss9676.github.io/Form-Group/)
 
      What is it?
      * A copy of The Form Group's website
@@ -23,7 +23,7 @@
      
      [Take me there!](https://mweiss9676.github.io/Form-Group/)
 
-* ## National Park Reservation System
+* ## [National Park Reservation System](https://mweiss9676.github.io/Park-Reservation-System/)
 
      What is it?
      * A C# console application which interfaces with Microsoft SQL Server to schedule and verify campsite reservations across three major park systems. Completed the bonus requirements for park-wide searching and implemented a GUI for usability.
