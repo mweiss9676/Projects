@@ -1,4 +1,4 @@
-# Some of the projects I'm currently working on 
+# Projects
 
 * ## [Advent of Code](https://mweiss9676.github.io/AdventCalendarCSharp/) 
      
