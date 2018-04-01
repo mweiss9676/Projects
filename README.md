@@ -1,12 +1,11 @@
 # Projects
 
-* ## [Advent of Code](https://mweiss9676.github.io/AdventCalendarCSharp/) 
-     
+* ## [Cleveland Coffee Company Website](http://clevelandcoffeecompany.apphb.com/)
+
      What is it?
-     * A series of coding challenges with a progressive difficulty scale for every day in the month of December
-     * This challenge has made me a much better programmer and taught me about File IO, LINQ, Regex, OOP, data structures, critical-      thinking, and algorithm design. 
+     * An MVC web application for a mock coffee company designed and coded in one week utilizing C#, HTML, CSS, Javascript, jQuery, Bootstrap, AJAX, SQL, and Entity Framework. Had never used Entity before and really learned a lot about jQuery and forms! Was a ton of fun to make!
      
-     [Take me there!](https://mweiss9676.github.io/AdventCalendarCSharp/)
+     [Take me there!](http://clevelandcoffeecompany.apphb.com/) (note: may take 20 seconds or so to spin up the servers if it hasn't been accessed in awhile)
      
 * ## [National Parks Weather Service](http://nationalparkweatherservice.apphb.com/)
 
@@ -22,6 +21,14 @@
      * The Form Group is a shop dedicated to helping non-profits in the art community realize their goals through web-based applications and digital events. Their web design is incredible and I learned a lot just by copying their work. Note: the mobile version of the site is all that is completed so far. 
      
      [Take me there!](https://mweiss9676.github.io/Form-Group/)
+     
+* ## [Advent of Code](https://mweiss9676.github.io/AdventCalendarCSharp/) 
+
+What is it?
+* A series of coding challenges with a progressive difficulty scale for every day in the month of December
+* This challenge has made me a much better programmer and taught me about File IO, LINQ, Regex, OOP, data structures, critical-      thinking, and algorithm design. 
+
+[Take me there!](https://mweiss9676.github.io/AdventCalendarCSharp/)
 
 * ## [National Park Reservation System](https://mweiss9676.github.io/Park-Reservation-System/)
 
