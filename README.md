@@ -7,7 +7,7 @@
      
      [Take me there!](http://clevelandcoffeecompany.apphb.com/) (note: may take 20 seconds or so to spin up the servers if it hasn't been accessed in awhile)
      
-* ## [National Parks Weather Service](http://nationalparkweatherservice.apphb.com/)
+* ## [National Parks Weather Service](http://nationalparksweatherservice.apphb.com/)
 
      What is it?
      * A .NET Framework application utilizing MVC to display local weather and information for our national parks. Went beyond the scope of the assignment by implementing Json data to streamline the data exchange, and implemented real weather data using a weather API in place of the built in SQL data. 
